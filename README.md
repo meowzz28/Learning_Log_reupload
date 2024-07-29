@@ -1,1 +1,1 @@
-#Learning Log
+Learning Log Project
